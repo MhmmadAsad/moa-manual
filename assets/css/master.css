@@ -10,18 +10,32 @@
 h1 {
 	font-family:Poppins !important;
 	text-decoration:none !important;
+	font-weight: bold !important;
 }
 
 h2 {
 	font-family:Poppins !important;
 	text-decoration:none !important;
+	font-weight: bold !important;
 }
 
 .logo {	
-	width:200px;
+	text-align: center;
+	margin-left:55px;
+	width:100px;
 	margin-bottom:30px; 
 	font-family:Poppins;
+	transition:all .3s ease;
+	-webkit-transition:all .3s ease;
 }
+
 .txtb {
 	font-family:Poppins;
+	font-weight:bold;
+	font-size:17px;
+}
+.txtw {
+	margin-bottom:5px;
+	font-size:14px;
+	font-family:sans-serif;
 }

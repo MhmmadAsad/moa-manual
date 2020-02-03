@@ -13,7 +13,12 @@
 
 </div>
 
-- [HOME](README.md "Home | Monita Admin")
+<div class="txtw" style="font-size: 14px;">	
+
+
+- [HOME](../README.md "Home | Monita Admin")
+
+</div>
 
 <div class="txtb" >
 
@@ -21,6 +26,7 @@
 
 </div>
 
+<div class="txtw">	
 	
 - [LOGIN](fitur/login.md "Login | Monita Admin")
 
@@ -47,5 +53,5 @@
 
 
 
-
+</div>
 
