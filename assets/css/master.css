@@ -1,0 +1,27 @@
+*{
+	text-decoration:none !important; 
+}
+@font-face {
+	src:url(assets/font/poppins.ttf);
+	font-family:Poppins;
+
+}
+
+h1 {
+	font-family:Poppins !important;
+	text-decoration:none !important;
+}
+
+h2 {
+	font-family:Poppins !important;
+	text-decoration:none !important;
+}
+
+.logo {	
+	width:200px;
+	margin-bottom:30px; 
+	font-family:Poppins;
+}
+.txtb {
+	font-family:Poppins;
+}
