@@ -2,7 +2,7 @@
 	text-decoration:none !important; 
 }
 @font-face {
-	src:url(assets/font/poppins.ttf);
+	src:url(../font/poppins.ttf);
 	font-family:Poppins;
 
 }
