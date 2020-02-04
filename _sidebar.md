@@ -1,4 +1,4 @@
-<div style="font-size:14px;">
+<div style="font-size:13px;">
 <center class="logo">
 
 ![IMG](assets/img/koala-svg.svg "Monita Admin Manual")

@@ -1,4 +1,4 @@
-<div class="inti" >
+
 <center class="logo">
 
 ![IMG](../assets/img/koala-svg.svg "Monita Admin Manual")
@@ -13,7 +13,7 @@
 
 </div>
 
-<div class="txtw" style="font-size: 14px;">	
+<div class="txtw">	
 
 
 - [HOME](README.md "Home | Monita Admin")
@@ -53,6 +53,5 @@
 
 
 
-</div>
 </div>
 
