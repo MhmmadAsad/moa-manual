@@ -23,6 +23,7 @@ h2 {
 	text-align: center;
 	margin-left:55px;
 	width:100px;
+	font-size:17px;
 	margin-bottom:30px; 
 	font-family:Poppins;
 	transition:all .3s ease;
@@ -35,6 +36,6 @@ h2 {
 	font-size:17px;
 }
 .txtw {
-	font-size:15px;
+	font-size:14px;
 	font-family:Poppins;
 }

@@ -1,7 +1,7 @@
-
+<div style="font-size:14px;">
 <center class="logo">
 
-![IMG](assets/img/koala-svg.svg)
+![IMG](assets/img/koala-svg.svg "Monita Admin Manual")
 
 **MONITA ADMIN** 
 
@@ -43,6 +43,9 @@
 
 
 - [FORMULA](fitur/formula.md "Formula | Monita Admin")
+
+</div>
+
 
 
 

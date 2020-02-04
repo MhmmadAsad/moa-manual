@@ -1,7 +1,7 @@
 <div class="inti" >
 <center class="logo">
 
-![IMG](../assets/img/koala-svg.svg)
+![IMG](../assets/img/koala-svg.svg "Monita Admin Manual")
 
 **MONITA ADMIN** 
 
